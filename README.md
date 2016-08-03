@@ -1,5 +1,7 @@
-# datos-movilidad-bogota
-Como iniciativa individual este repositorio es un compendio de los datos que no están expuestos formalmente de Bogota
-pero están disponibles para su extracción en diferentes formatos en diferentes paginas. 
+# Datos de Movilidad Bogota 
+Como iniciativa personal este repositorio es un compendio de los datos que no están expuestos formalmente de Bogota a través de portales de datos abiertos pero están disponibles p diferentes formatos en diferentes paginas. 
 
-
+A continuación un directorio de donde extrajeron los datos fuente y su respectiva URL
+<table>
+  <tr><td>Descripcion</td></tr>
+</table> 
