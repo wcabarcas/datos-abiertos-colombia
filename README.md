@@ -3,7 +3,7 @@ Como iniciativa personal este repositorio es un compendio de los datos que no es
 
 A continuación un directorio de donde extrajeron los datos fuente y su respectiva URL
 <table>
-  <tr><td>Descripcion</td><td>URL</tr><td>Estatico?</td></tr>
- <tr><td>Buscador de Datos Tematicos en Formato KML/KMZ</td><td>http://www.ideca.gov.co/es/servicios/objetos-geograficos-tematicos</td><td>SI</td></tr>
+  <tr><td>Descripcion</td><td>URL</td><td>Estatico?</td></tr>
+  <tr><td>Buscador de Datos Tematicos en Formato KML/KMZ</td><td>http://www.ideca.gov.co/es/servicios/objetos-geograficos-tematicos</td><td>SI</td></tr>
   
 </table> 
