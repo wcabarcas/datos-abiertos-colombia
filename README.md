@@ -4,4 +4,6 @@ Como iniciativa personal este repositorio es un compendio de los datos que no es
 A continuación un directorio de donde extrajeron los datos fuente y su respectiva URL
 <table>
   <tr><td>Descripcion</td><td>URL</tr></tr>
+   <tr><td>Buscador de Datos Tematicos en Formato KML/KMZ</td><td>http://www.ideca.gov.co/es/servicios/objetos-geograficos-tematicos</tr></tr>
+  
 </table> 
